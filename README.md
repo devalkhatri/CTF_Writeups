@@ -207,6 +207,8 @@ Flag 3 : `nsctf{@1w@y5_+h3_!nn0c3n+_@r3_+h3_F!rs+_v!c+!m5}`
 
 It was a very nice CTF by [Smit Patel](https://twitter.com/smit_2307).
 
+Winner and writeup Author : [Deval Khatri](https://twitter.com/devalpkhatri).
+
 Here are the scoreboard of CTF.
 
 ![](img/3_22.png)
